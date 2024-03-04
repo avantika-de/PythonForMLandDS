@@ -1,1 +1,0 @@
-This is a file on Numpy. We are creating this file to see how things are.
